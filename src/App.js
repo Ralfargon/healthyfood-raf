@@ -88,7 +88,7 @@ export default function App() {
               Trying a new<br />
               recipe?
             </h1>
-            <TextField id="outlined-basic" label="Search healthy recipes" variant="outlined" />
+            <TextField id="outlined-basic1" label="Search healthy recipes" variant="outlined" />
 
 
           </Box>
